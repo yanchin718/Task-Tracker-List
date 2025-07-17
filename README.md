@@ -2,8 +2,9 @@
 This is a simple To-Do List application built using HTML, CSS, and JavaScript. Users can add, edit, delete, and mark tasks as completed by clicking on them.
 
 🛠️ Technologies Used
-HTML: Structure
-CSS: Styling
+HTML: Structure  
+
+CSS: Styling  
 JavaScript: Logic for adding, editing, deleting, and toggling completion
 
 # Features
